@@ -18,6 +18,7 @@
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+![Snake animation](https://github.com/Luiza-Fidalgo/Luiza-Fidalgo/blob/output/github-contribution-grid-snake.svg)
 ##
 
 <div> 
