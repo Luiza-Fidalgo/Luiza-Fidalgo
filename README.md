@@ -2,7 +2,11 @@
 ##
 👩🏻‍💻 Cursando engenharia de software!
 
-📚 Atualmente estudando JAVA e C#!
+📚 Atualmente estudando Front-end: Javascript, react, UI/UX designer!
+##
+👩‍🎓 Aluna representante (dos alunos) no colegiado da faculdade infnet!
+
+👩🏻‍💻 Coordenadora do clube de programação e algoritmos da faculdade infnet!
 ##
 <div style="display: inline_block">
   <br>
@@ -12,10 +16,16 @@
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Luiza-JS" height="30" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Luiza-JAVA" height="30" width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+   <img align="center" alt="Luiza-React" height="30" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Luiza-Java" height="30" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    <img align="center" alt="Luiza-C#" height="30" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img align="center" alt="Luiza-Python" height="30" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Luiza-Sql" height="30" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">
 </div>
 
 ##
