@@ -25,7 +25,7 @@ Acredito no poder da tecnologia unida à comunidade — por isso participo ativa
 ---
 
 ## 🤖 Projetos em Inteligência Artificial  
-Desenvolvi um **aplicativo com reconhecimento facial**, criado como projeto de bloco da faculdade.  
+Desenvolvi em grupo um **aplicativo com reconhecimento facial**, criado como projeto de bloco da faculdade.  
 O sistema permite que o usuário tire uma foto de um ator e, a partir disso:
 
 - Identifica a pessoa por visão computacional  
